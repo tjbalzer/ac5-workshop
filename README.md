@@ -1,2 +1,5 @@
 # ac5-workshop
-WS:A4 (Arista)
+
+AS:W4 (Arista)
+
+https://codespaces.new/tjbalzer/ac5-workshop
